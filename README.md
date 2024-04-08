@@ -1,8 +1,6 @@
 # EEE3088F_mouse_project_group30
 This project is on a mouse that can solve a maise
 
-Sure, here's a detailed README.md file for your project:
-
 # Micro-Mouse Sensing Subsystem
 
 ## Table of Contents
