@@ -10,7 +10,7 @@ The design files for the sensing subsystem PCB were created using KiCad EDA. The
 
 To import footprints from EasyEDA into KiCad, the `easyeda2kicad` Python script was used. This script converts the EasyEDA footprint files to the KiCad format, allowing for seamless integration of components from the EasyEDA library into the KiCad project.
 
-The `easyeda2kicad` script can be found at [https://github.com/myhovasoftware/easyeda2kicad](https://github.com/myhovasoftware/easyeda2kicad).
+The `easyeda2kicad` script can be found at [https://pypi.org/project/easyeda2kicad/](https://pypi.org/project/easyeda2kicad/).
 
 To use the script, follow these steps:
 
