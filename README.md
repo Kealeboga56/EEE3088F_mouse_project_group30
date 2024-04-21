@@ -4,7 +4,7 @@ This repository contains the design files and documentation for the sensing subs
 
 ## Design Files
 
-The design files for the sensing subsystem PCB were created using KiCad EDA. The schematic and PCB layout files are located in the `kicad_files` directory.
+The design files for the sensing subsystem PCB were created using KiCad EDA. The schematic and PCB layout files are located in the `sensing` directory.
 
 ## Footprint Import
 
