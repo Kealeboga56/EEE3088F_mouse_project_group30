@@ -14,5 +14,5 @@ The `easyeda2kicad` script can be found at [https://pypi.org/project/easyeda2kic
 
 To use the script, follow these steps:
 
-1. Install the required dependencies (`lxml` and `click`) by running `pip install easyeda2kicad`.
+1. Install the required dependencies (`lxml` and `click`) by running `pip install easyeda2kicad` in your terminal.
 2. Run the script with the appropriate arguments, specifying the input EasyEDA footprint file and the output directory for the KiCad footprint files.more on how to use it at [https://pypi.org/project/easyeda2kicad/]
