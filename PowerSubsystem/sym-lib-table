@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DRV8833PWPR")(type "KiCad")(uri "${KIPRJMOD}/DRV8833PWPR/DRV8833PWPR.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-03-22_20-51-46")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/2024-03-22_20-51-46.kicad_sym")(options "")(descr ""))
+)

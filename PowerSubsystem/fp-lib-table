@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "DRV8833PWPR")(type "KiCad")(uri "${KIPRJMOD}/DRV8833PWPR")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/TS-1187A-B-A-B")(options "")(descr ""))
+)
