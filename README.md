@@ -24,6 +24,11 @@ The `power` folder contains all the files related to the design and implementati
 - `datasheets/`: This directory contains datasheets for the components used in the power subsystem, such as regulators, batteries, and other power management components.
 - `docs/`: This directory houses any additional documentation or reports related to the power subsystem, such as design specifications, test reports, or user manuals.
 
+## Importing footprints
+- For importing footprints in kicad. the easyeda2kicad script was used.
+- `Installation/`: run : "pip install easyeda2kicad" on your terminal
+- for more on how to get the lcsc_id and how to import visit website [https://pypi.org/project/easyeda2kicad/]
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
